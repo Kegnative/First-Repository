@@ -24,7 +24,7 @@ $film = [
         'trailer' => 'https://www.youtube.com/embed/_qyw6LC5pnE'
     ],
     [
-        'photo'   => 'https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/41/Black_Widow_November_6_Poster.jpg/revision/latest/scale-to-width-down/337?cb=20200403193641',
+        'photo'   => 'https://images-na.ssl-images-amazon.com/images/I/61Fm%2BN%2BNncL._AC_SL1008_.jpg',
         'title'   => 'Black Widow',
         'year'    => 2021,
         'genre'   => 'Action',
