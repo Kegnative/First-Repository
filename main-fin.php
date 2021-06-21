@@ -22,5 +22,12 @@ $film = [
         'year'    => 2021,
         'genre'   => 'Action',
         'trailer' => 'https://www.youtube.com/embed/_qyw6LC5pnE'
+    ],
+    [
+        'photo'   => 'https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/41/Black_Widow_November_6_Poster.jpg/revision/latest/scale-to-width-down/337?cb=20200403193641',
+        'title'   => 'Black Widow',
+        'year'    => 2021,
+        'genre'   => 'Action',
+        'trailer' => 'https://www.youtube.com/embed/Fp9pNPdNwjI'
     ]
 ];
